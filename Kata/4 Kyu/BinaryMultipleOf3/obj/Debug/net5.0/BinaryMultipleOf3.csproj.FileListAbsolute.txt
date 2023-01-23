@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\bin\Debug\net5.0\BinaryMultipleOf3.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\bin\Debug\net5.0\BinaryMultipleOf3.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\bin\Debug\net5.0\BinaryMultipleOf3.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\bin\Debug\net5.0\BinaryMultipleOf3.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\bin\Debug\net5.0\BinaryMultipleOf3.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\bin\Debug\net5.0\BinaryMultipleOf3.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\refint\BinaryMultipleOf3.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\BinaryMultipleOf3.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\BinaryMultipleOf3\obj\Debug\net5.0\ref\BinaryMultipleOf3.dll

@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\bin\Debug\net5.0\WhichAreIn.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\bin\Debug\net5.0\WhichAreIn.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\bin\Debug\net5.0\WhichAreIn.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\bin\Debug\net5.0\WhichAreIn.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\bin\Debug\net5.0\WhichAreIn.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\bin\Debug\net5.0\WhichAreIn.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\refint\WhichAreIn.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\WhichAreIn.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\WhichAreIn\obj\Debug\net5.0\ref\WhichAreIn.dll

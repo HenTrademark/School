@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\bin\Debug\net5.0\Garden2.exe
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\bin\Debug\net5.0\Garden2.deps.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\bin\Debug\net5.0\Garden2.runtimeconfig.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\bin\Debug\net5.0\Garden2.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\bin\Debug\net5.0\Garden2.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\bin\Debug\net5.0\Garden2.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.AssemblyInfo.cs
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\refint\Garden2.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\Garden2.genruntimeconfig.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Garden2\obj\Debug\net5.0\ref\Garden2.dll

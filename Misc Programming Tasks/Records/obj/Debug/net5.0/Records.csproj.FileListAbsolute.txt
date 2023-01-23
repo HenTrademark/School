@@ -1,0 +1,16 @@
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\bin\Debug\net5.0\Records.exe
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\bin\Debug\net5.0\Records.deps.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\bin\Debug\net5.0\Records.runtimeconfig.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\bin\Debug\net5.0\Records.runtimeconfig.dev.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\bin\Debug\net5.0\Records.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\bin\Debug\net5.0\Records.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.csproj.AssemblyReference.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.AssemblyInfoInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.AssemblyInfo.cs
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\refint\Records.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\Records.genruntimeconfig.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Records\obj\Debug\net5.0\ref\Records.dll

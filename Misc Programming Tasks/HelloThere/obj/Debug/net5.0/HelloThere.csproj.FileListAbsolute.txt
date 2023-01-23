@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\bin\Debug\net5.0\HelloThere.exe
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\bin\Debug\net5.0\HelloThere.deps.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\bin\Debug\net5.0\HelloThere.runtimeconfig.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\bin\Debug\net5.0\HelloThere.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\bin\Debug\net5.0\HelloThere.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\bin\Debug\net5.0\HelloThere.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.AssemblyInfo.cs
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\refint\HelloThere.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\HelloThere.genruntimeconfig.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HelloThere\obj\Debug\net5.0\ref\HelloThere.dll

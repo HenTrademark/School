@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\bin\Debug\net5.0\HeightConvert2.exe
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\bin\Debug\net5.0\HeightConvert2.deps.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\bin\Debug\net5.0\HeightConvert2.runtimeconfig.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\bin\Debug\net5.0\HeightConvert2.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\bin\Debug\net5.0\HeightConvert2.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\bin\Debug\net5.0\HeightConvert2.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.AssemblyInfo.cs
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\refint\HeightConvert2.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\HeightConvert2.genruntimeconfig.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\HeightConvert2\obj\Debug\net5.0\ref\HeightConvert2.dll

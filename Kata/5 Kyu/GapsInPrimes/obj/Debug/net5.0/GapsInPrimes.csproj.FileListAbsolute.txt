@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\bin\Debug\net5.0\GapsInPrimes.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\bin\Debug\net5.0\GapsInPrimes.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\bin\Debug\net5.0\GapsInPrimes.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\bin\Debug\net5.0\GapsInPrimes.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\bin\Debug\net5.0\GapsInPrimes.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\bin\Debug\net5.0\GapsInPrimes.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\refint\GapsInPrimes.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\GapsInPrimes.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\5 Kyu\GapsInPrimes\obj\Debug\net5.0\ref\GapsInPrimes.dll

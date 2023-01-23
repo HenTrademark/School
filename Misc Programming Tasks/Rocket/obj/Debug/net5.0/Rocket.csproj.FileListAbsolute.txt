@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\bin\Debug\net5.0\Rocket.exe
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\bin\Debug\net5.0\Rocket.deps.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\bin\Debug\net5.0\Rocket.runtimeconfig.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\bin\Debug\net5.0\Rocket.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\bin\Debug\net5.0\Rocket.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\bin\Debug\net5.0\Rocket.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.AssemblyInfo.cs
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\refint\Rocket.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\Rocket.genruntimeconfig.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Rocket\obj\Debug\net5.0\ref\Rocket.dll

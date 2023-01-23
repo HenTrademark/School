@@ -1,0 +1,16 @@
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\bin\Debug\net5.0\Stacks.exe
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\bin\Debug\net5.0\Stacks.deps.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.dev.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\bin\Debug\net5.0\Stacks.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\bin\Debug\net5.0\Stacks.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.csproj.AssemblyReference.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfo.cs
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\refint\Stacks.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\Stacks.genruntimeconfig.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\Stacks\obj\Debug\net5.0\ref\Stacks.dll

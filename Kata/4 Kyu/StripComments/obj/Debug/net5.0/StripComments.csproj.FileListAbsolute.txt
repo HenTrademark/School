@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\bin\Debug\net5.0\StripComments.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\bin\Debug\net5.0\StripComments.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\bin\Debug\net5.0\StripComments.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\bin\Debug\net5.0\StripComments.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\bin\Debug\net5.0\StripComments.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\bin\Debug\net5.0\StripComments.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\refint\StripComments.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\StripComments.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\StripComments\obj\Debug\net5.0\ref\StripComments.dll

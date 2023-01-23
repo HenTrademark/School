@@ -1,0 +1,16 @@
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\bin\Debug\net5.0\ByValByRef.exe
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\bin\Debug\net5.0\ByValByRef.deps.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\bin\Debug\net5.0\ByValByRef.runtimeconfig.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\bin\Debug\net5.0\ByValByRef.runtimeconfig.dev.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\bin\Debug\net5.0\ByValByRef.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\bin\Debug\net5.0\ByValByRef.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.csproj.AssemblyReference.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.AssemblyInfoInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.AssemblyInfo.cs
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.csproj.CoreCompileInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\refint\ByValByRef.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ByValByRef.genruntimeconfig.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\ByValByRef\obj\Debug\net5.0\ref\ByValByRef.dll

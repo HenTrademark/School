@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.AssemblyInfo.cs
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\bin\Debug\net5.0\LongestConsecutive.exe
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\bin\Debug\net5.0\LongestConsecutive.deps.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\bin\Debug\net5.0\LongestConsecutive.runtimeconfig.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\bin\Debug\net5.0\LongestConsecutive.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\bin\Debug\net5.0\LongestConsecutive.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\bin\Debug\net5.0\LongestConsecutive.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\refint\LongestConsecutive.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\LongestConsecutive.genruntimeconfig.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Kata\6 Kyu\LongestConsecutive\obj\Debug\net5.0\ref\LongestConsecutive.dll

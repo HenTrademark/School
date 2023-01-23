@@ -1,0 +1,16 @@
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\bin\Debug\net5.0\Program4_7.exe
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\bin\Debug\net5.0\Program4_7.deps.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\bin\Debug\net5.0\Program4_7.runtimeconfig.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\bin\Debug\net5.0\Program4_7.runtimeconfig.dev.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\bin\Debug\net5.0\Program4_7.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\bin\Debug\net5.0\Program4_7.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.csproj.AssemblyReference.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.AssemblyInfoInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.AssemblyInfo.cs
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.csproj.CoreCompileInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\refint\Program4_7.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\Program4_7.genruntimeconfig.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapter 4\Program4_7\obj\Debug\net5.0\ref\Program4_7.dll

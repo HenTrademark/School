@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\bin\Debug\net5.0\IsInteresting.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\bin\Debug\net5.0\IsInteresting.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\bin\Debug\net5.0\IsInteresting.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\bin\Debug\net5.0\IsInteresting.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\bin\Debug\net5.0\IsInteresting.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\bin\Debug\net5.0\IsInteresting.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\refint\IsInteresting.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\IsInteresting.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\IsInteresting\obj\Debug\net5.0\ref\IsInteresting.dll

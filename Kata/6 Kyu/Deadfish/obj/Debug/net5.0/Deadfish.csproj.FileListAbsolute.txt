@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\bin\Debug\net5.0\Deadfish.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\bin\Debug\net5.0\Deadfish.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\bin\Debug\net5.0\Deadfish.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\bin\Debug\net5.0\Deadfish.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\bin\Debug\net5.0\Deadfish.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\bin\Debug\net5.0\Deadfish.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\refint\Deadfish.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\Deadfish.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\6 Kyu\Deadfish\obj\Debug\net5.0\ref\Deadfish.dll

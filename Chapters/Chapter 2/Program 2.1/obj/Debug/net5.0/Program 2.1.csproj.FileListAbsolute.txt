@@ -1,0 +1,16 @@
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.csproj.AssemblyReference.cache
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.GeneratedMSBuildEditorConfig.editorconfig
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.AssemblyInfoInputs.cache
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.AssemblyInfo.cs
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.csproj.CoreCompileInputs.cache
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\bin\Debug\net5.0\Program 2.1.exe
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\bin\Debug\net5.0\Program 2.1.deps.json
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\bin\Debug\net5.0\Program 2.1.runtimeconfig.json
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\bin\Debug\net5.0\Program 2.1.runtimeconfig.dev.json
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\bin\Debug\net5.0\Program 2.1.dll
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\bin\Debug\net5.0\Program 2.1.pdb
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.dll
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\refint\Program 2.1.dll
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.pdb
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\Program 2.1.genruntimeconfig.cache
+H:\A Levels\Computer Science\Programming\Chapter 2\Program 2.1\obj\Debug\net5.0\ref\Program 2.1.dll

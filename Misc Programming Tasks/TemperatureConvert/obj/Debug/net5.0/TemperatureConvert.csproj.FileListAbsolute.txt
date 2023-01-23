@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\bin\Debug\net5.0\TemperatureConvert.exe
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\bin\Debug\net5.0\TemperatureConvert.deps.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\bin\Debug\net5.0\TemperatureConvert.runtimeconfig.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\bin\Debug\net5.0\TemperatureConvert.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\bin\Debug\net5.0\TemperatureConvert.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\bin\Debug\net5.0\TemperatureConvert.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.AssemblyInfo.cs
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\refint\TemperatureConvert.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\TemperatureConvert.genruntimeconfig.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\TemperatureConvert\obj\Debug\net5.0\ref\TemperatureConvert.dll

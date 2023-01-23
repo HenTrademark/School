@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\bin\Debug\net5.0\RomanNumeralsHelper.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\bin\Debug\net5.0\RomanNumeralsHelper.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\bin\Debug\net5.0\RomanNumeralsHelper.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\bin\Debug\net5.0\RomanNumeralsHelper.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\bin\Debug\net5.0\RomanNumeralsHelper.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\bin\Debug\net5.0\RomanNumeralsHelper.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\refint\RomanNumeralsHelper.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\RomanNumeralsHelper.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\RomanNumeralsHelper\obj\Debug\net5.0\ref\RomanNumeralsHelper.dll

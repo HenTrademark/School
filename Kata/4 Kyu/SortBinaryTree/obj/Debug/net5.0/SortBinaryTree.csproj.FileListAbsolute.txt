@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\bin\Debug\net5.0\SortBinaryTree.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\bin\Debug\net5.0\SortBinaryTree.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\bin\Debug\net5.0\SortBinaryTree.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\bin\Debug\net5.0\SortBinaryTree.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\bin\Debug\net5.0\SortBinaryTree.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\bin\Debug\net5.0\SortBinaryTree.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\refint\SortBinaryTree.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\SortBinaryTree.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\SortBinaryTree\obj\Debug\net5.0\ref\SortBinaryTree.dll

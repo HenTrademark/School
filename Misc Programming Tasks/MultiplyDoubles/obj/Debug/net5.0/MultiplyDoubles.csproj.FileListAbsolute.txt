@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\bin\Debug\net5.0\MultiplyDoubles.exe
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\bin\Debug\net5.0\MultiplyDoubles.deps.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\bin\Debug\net5.0\MultiplyDoubles.runtimeconfig.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\bin\Debug\net5.0\MultiplyDoubles.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\bin\Debug\net5.0\MultiplyDoubles.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\bin\Debug\net5.0\MultiplyDoubles.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.AssemblyInfo.cs
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\refint\MultiplyDoubles.dll
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.pdb
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\MultiplyDoubles.genruntimeconfig.cache
+W:\HenTrademark\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\MultiplyDoubles\obj\Debug\net5.0\ref\MultiplyDoubles.dll

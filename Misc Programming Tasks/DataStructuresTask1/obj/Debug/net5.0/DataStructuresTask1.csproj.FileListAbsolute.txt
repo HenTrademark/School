@@ -1,0 +1,16 @@
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\bin\Debug\net5.0\DataStructuresTask1.exe
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\bin\Debug\net5.0\DataStructuresTask1.deps.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\bin\Debug\net5.0\DataStructuresTask1.runtimeconfig.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\bin\Debug\net5.0\DataStructuresTask1.runtimeconfig.dev.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\bin\Debug\net5.0\DataStructuresTask1.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\bin\Debug\net5.0\DataStructuresTask1.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.csproj.AssemblyReference.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.AssemblyInfoInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.AssemblyInfo.cs
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.csproj.CoreCompileInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\refint\DataStructuresTask1.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\DataStructuresTask1.genruntimeconfig.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Misc Programming Tasks\DataStructuresTask1\obj\Debug\net5.0\ref\DataStructuresTask1.dll

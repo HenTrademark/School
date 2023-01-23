@@ -1,0 +1,16 @@
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\bin\Debug\net5.0\HumanTimeFormat.exe
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\bin\Debug\net5.0\HumanTimeFormat.deps.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\bin\Debug\net5.0\HumanTimeFormat.runtimeconfig.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\bin\Debug\net5.0\HumanTimeFormat.runtimeconfig.dev.json
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\bin\Debug\net5.0\HumanTimeFormat.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\bin\Debug\net5.0\HumanTimeFormat.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.csproj.AssemblyReference.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.AssemblyInfoInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.AssemblyInfo.cs
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.csproj.CoreCompileInputs.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\refint\HumanTimeFormat.dll
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.pdb
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\HumanTimeFormat.genruntimeconfig.cache
+W:\HenTrademark\OneDrive\Documents\C#\Kata\4 Kyu\HumanTimeFormat\obj\Debug\net5.0\ref\HumanTimeFormat.dll
