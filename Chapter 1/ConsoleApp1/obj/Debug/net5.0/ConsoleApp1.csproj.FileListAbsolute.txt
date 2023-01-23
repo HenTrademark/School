@@ -1,0 +1,16 @@
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+H:\A Levels\Computer Science\Programming\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
