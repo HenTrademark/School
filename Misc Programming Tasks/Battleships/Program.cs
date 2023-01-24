@@ -192,6 +192,7 @@ namespace Battleships {
     }
 
     internal class Player {
+        private static int _uncovered = 0;
         private static int _score = 0;
         private static string[] _index = new string[] { "[0] ", "[1] ", "[2] ", "[3] ", "[4] ", "[5] " };
         public static string[,] Bot = new string[,] {
@@ -224,13 +225,9 @@ namespace Battleships {
                 }
             }
         }
+
         public static void MakeBoard() {
             BoardFeatures.MakeBoard(Board);
-        }
-        public static void Prerequisites() {
-            MakeBoard();
-            Robot.MakeBoard();
-            Game();
         }
 
         private static void Sink() {
@@ -262,15 +259,24 @@ namespace Battleships {
                 _score++;
                 Bot[row, col] = Robot.GetSpace(row, col).Trim();
             }
+
+            _uncovered++;
         }
         
         private static void Game() {
+            BoardFeatures.PrintBoard(Robot.Bot);
             while (_score < 7) {
                 Sink();
             }
             PadBoard(Bot);
             BoardFeatures.PrintBoard(Bot);
             Console.WriteLine("You won!");
+            Console.WriteLine("You did it in {0} tries", _uncovered);
+        }
+        
+        public static void Prerequisites() {
+            MakeBoard();
+            Game();
         }
     }
     internal class Program {
