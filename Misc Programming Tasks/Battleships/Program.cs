@@ -5,11 +5,11 @@ namespace Battleships {
     internal class BoardFeatures {
         private static Random _rand = new Random();
         private static int _longestLength = 0;
-        private static string[] _index = new string[] { "[0] ", "[1] ", "[2] ", "[3] ", "[4] ", "[5] " };
+        private static string[] _index = new string[] { "[0] ", "[1] ", "[2] ", "[3] ", "[4] ", "[5] ", "[6] ", "[7] ", "[8] ", "[9] " };
         public static int GetLength() { return _longestLength; }
         public static void PrintBoard(string[,] board) {
             Console.Write("-------");
-            for (int x = 0; x < 6; x++) { // This makes the horizontal lines at the top
+            for (int x = 0; x < 10; x++) { // This makes the horizontal lines at the top
                 for (int count = 0; count < _longestLength + 2; count++) {
                     Console.Write("-");
                 }
@@ -17,10 +17,10 @@ namespace Battleships {
             }
             Console.WriteLine();
             Console.Write("|     | ");
-            for (int x = 0; x < 6; x++) { Console.Write("{0} | ",_index[x]); }
+            for (int x = 0; x < 10; x++) { Console.Write("{0} | ",_index[x]); }
             Console.Write("\n");
             Console.Write("—------");
-            for (int x = 0; x < 6; x++) { // This makes the horizontal lines under each grid space
+            for (int x = 0; x < 10; x++) { // This makes the horizontal lines under each grid space
                 for (int count = 0; count < _longestLength + 2; count++) {
                     Console.Write("—");
                 }
@@ -28,12 +28,12 @@ namespace Battleships {
             }
 
             Console.Write("\n");
-            for (int i = 0; i < 6; i++) { 
+            for (int i = 0; i < 10; i++) { 
                 Console.Write("| [{0}] | ",i);
-                for (int x = 0; x < 6; x++) { Console.Write("{0} | ",board[i,x]); }
+                for (int x = 0; x < 10; x++) { Console.Write("{0} | ",board[i,x]); }
                 Console.Write("\n");
                 Console.Write("—------");
-                for (int x = 0; x < 6; x++) { 
+                for (int x = 0; x < 10; x++) { 
                     for (int count = 0; count < _longestLength + 2; count++) {
                         Console.Write("—");
                     }
@@ -45,8 +45,8 @@ namespace Battleships {
         public static void MakeBoard(string[,] board) {
             bool validplace = false;
             while (!validplace) {
-                int row = _rand.Next(6);
-                int col = _rand.Next(6);
+                int row = _rand.Next(10);
+                int col = _rand.Next(10);
                 int direction = _rand.Next(4);
 
                 switch (direction) {
@@ -59,14 +59,14 @@ namespace Battleships {
                         board[row - 2, col] = "Carrier";
                         break;
                     case 1: // Right
-                        if (col > 3) { break; }
+                        if (col > 7) { break; }
                         validplace = true;
                         board[row, col] = "Carrier";
                         board[row, col + 1] = "Carrier";
                         board[row, col + 2] = "Carrier";
                         break;
                     case 2: // Down
-                        if (row > 3) { break; }
+                        if (row > 7) { break; }
                         validplace = true;
                         board[row, col] = "Carrier";
                         board[row + 1, col] = "Carrier";
@@ -84,8 +84,8 @@ namespace Battleships {
             
             validplace = false;
             while (!validplace) {
-                int row = _rand.Next(6);
-                int col = _rand.Next(6);
+                int row = _rand.Next(10);
+                int col = _rand.Next(10);
                 int direction = _rand.Next(4);
 
                 switch (direction) {
@@ -96,13 +96,13 @@ namespace Battleships {
                         board[row - 1, col] = "Destroyer";
                         break;
                     case 1: // Right
-                        if (col > 4 || board[row,col] != "" || board[row,col + 1] != "") { break; }
+                        if (col > 8 || board[row,col] != "" || board[row,col + 1] != "") { break; }
                         validplace = true;
                         board[row, col] = "Destroyer";
                         board[row, col + 1] = "Destroyer";
                         break;
                     case 2: // Down
-                        if (row > 4 || board[row,col] != "" || board[row + 1,col] != "") { break; }
+                        if (row > 8 || board[row,col] != "" || board[row + 1,col] != "") { break; }
                         validplace = true;
                         board[row, col] = "Destroyer";
                         board[row + 1, col] = "Destroyer";
@@ -118,8 +118,8 @@ namespace Battleships {
             
             validplace = false;
             while (!validplace) {
-                int row = _rand.Next(6);
-                int col = _rand.Next(6);
+                int row = _rand.Next(10);
+                int col = _rand.Next(10);
 
                 if (board[row, col] == "") {
                     validplace = true;
@@ -129,8 +129,8 @@ namespace Battleships {
             
             validplace = false;
             while (!validplace) {
-                int row = _rand.Next(6);
-                int col = _rand.Next(6);
+                int row = _rand.Next(10);
+                int col = _rand.Next(10);
 
                 if (board[row, col] == "") {
                     validplace = true;
@@ -139,8 +139,8 @@ namespace Battleships {
             }
 
             string longest = "";
-            for (int row = 0; row < 6; row++) {
-                for (int col = 0; col < 6; col++) {
+            for (int row = 0; row < 10; row++) {
+                for (int col = 0; col < 10; col++) {
                     if (board[row, col].Length % 2 == 1) {
                         board[row, col] += " "; }
                     if (board[row, col].Length > longest.Length) {
@@ -148,8 +148,8 @@ namespace Battleships {
                 }
             }
 
-            for (int row = 0; row < 6; row++) {
-                for (int col = 0; col < 6; col++) {
+            for (int row = 0; row < 10; row++) {
+                for (int col = 0; col < 10; col++) {
                     while (board[row, col].Length < longest.Length) {
                         board[row, col] = " " + board[row, col] + " ";
                     }
@@ -166,20 +166,28 @@ namespace Battleships {
     internal class Robot {
         
         public static string[,] Bot = new string[,] { 
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" }
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" }
         };
         public static string[,] Board = new string[,] { // NOT USED UNTIL COMPUTER VS PLAYER
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" }
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" }
         };
         
         public static void MakeBoard() {
@@ -194,27 +202,35 @@ namespace Battleships {
     internal class Player {
         private static int _uncovered = 0;
         private static int _score = 0;
-        private static string[] _index = new string[] { "[0] ", "[1] ", "[2] ", "[3] ", "[4] ", "[5] " };
+        private static string[] _index = new string[] { "[0] ", "[1] ", "[2] ", "[3] ", "[4] ", "[5] ", "[6] ", "[7] ", "[8] ", "[9] " };
         public static string[,] Bot = new string[,] {
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" }
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" }
         };
         public static string[,] Board = new string[,] {
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" },
-            { "", "", "", "", "", "" }
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" },
+            { "", "", "", "", "", "", "", "", "", "" }
         };
         
         static void PadBoard(string[,] board) {
-            for (int i = 0; i < 6; i++) {
-                for (int j = 0; j < 6; j++) {
+            for (int i = 0; i < 10; i++) {
+                for (int j = 0; j < 10; j++) {
                     if (board[i, j].Length % 2 == 1) {
                         board[i, j] += " ";
                     }
@@ -276,6 +292,7 @@ namespace Battleships {
         
         public static void Prerequisites() {
             MakeBoard();
+            Robot.MakeBoard();
             Game();
         }
     }
