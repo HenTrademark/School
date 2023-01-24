@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/bin/Debug/net5.0/EvenFibSum
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/bin/Debug/net5.0/EvenFibSum.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/bin/Debug/net5.0/EvenFibSum.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/bin/Debug/net5.0/EvenFibSum.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/bin/Debug/net5.0/EvenFibSum.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/bin/Debug/net5.0/EvenFibSum.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/refint/EvenFibSum.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/EvenFibSum.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/EvenFibSum/obj/Debug/net5.0/ref/EvenFibSum.dll

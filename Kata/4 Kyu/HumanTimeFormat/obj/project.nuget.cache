@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "icIIrsJh7UBNr2YInk2A7PUcfUQgSuUZUKRHxyD91JffbL2O4t7TBlGYCQn7PUSskgt9F0LYwGHhKACT6ZOYcw==",
+  "dgSpecHash": "ekAhxUYbr4q7OC6YSUdWdOeOH5kJfAuMKxYr1AJnDv8o4lCdc/SoFibDOrYBMKrs5VHKmYHTwAwikaqKy32JZw==",
   "success": true,
-  "projectFilePath": "W:\\HenTrademark\\OneDrive - wqeic.ac.uk\\A Levels\\Computer Science\\Programming\\Kata\\4 Kyu\\HumanTimeFormat\\HumanTimeFormat.csproj",
+  "projectFilePath": "/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/HumanTimeFormat/HumanTimeFormat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

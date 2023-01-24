@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/bin/Debug/net5.0/RailFenceCipher
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/bin/Debug/net5.0/RailFenceCipher.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/bin/Debug/net5.0/RailFenceCipher.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/bin/Debug/net5.0/RailFenceCipher.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/bin/Debug/net5.0/RailFenceCipher.dll
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/bin/Debug/net5.0/RailFenceCipher.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.dll
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/refint/RailFenceCipher.dll
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/RailFenceCipher.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/3 Kyu/RailFenceCipher/obj/Debug/net5.0/ref/RailFenceCipher.dll

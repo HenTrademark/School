@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\kitin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kitin\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "/home/hentm/.dotnet/store/|arch|/|tfm|",
+      "/home/hentm/.nuget/packages"
     ]
   }
 }

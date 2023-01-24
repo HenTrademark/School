@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A9B964FD-67AC-47D1-9409-8A1821273472}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IsInteresting/Program.cs">
+    <Files>
+      <File FileName="BinaryMultipleOf3/Program.cs" Line="7" Column="45" />
+      <File FileName="IsInteresting/Program.cs" Line="23" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4 Kyu" expanded="True">
+            <Node name="BinaryMultipleOf3" expanded="True" />
+            <Node name="IsInteresting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IsInteresting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

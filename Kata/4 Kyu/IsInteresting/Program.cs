@@ -113,12 +113,12 @@ namespace IsInteresting
             return 0;
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Enter a number you might think is interesting");
             Console.WriteLine("  If 0, it isn't interesting.\n  If 1, the number would be interesting in 1 or 2 numbers.\n  If 2, the number is interesting");
             int number = int.Parse(Console.ReadLine());
-            Console.WriteLine(IsInteresting(number, new List<int>() { 1337 }));
+            Console.WriteLine(IsInteresting(number, new List<int>() { 1337, 256 }));
         }
     }
 }

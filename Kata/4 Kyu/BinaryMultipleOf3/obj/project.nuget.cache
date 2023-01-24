@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QVmQocgR9VJjU5GzxTv6UOtWFi5eqOh+7Nk4N0I3wloKSGDFF4e07BOJ+bMlMjXlckO20ThiWsHI8I0dl6Ol7g==",
+  "dgSpecHash": "umtuk6pwPVZ588wTLAlL17jYLL0SN4/leubrupXaWzGHJKKRqtGkqGunBMh/VWXppInXTmoDusAwfjbzkw3SrA==",
   "success": true,
-  "projectFilePath": "W:\\HenTrademark\\OneDrive - wqeic.ac.uk\\A Levels\\Computer Science\\Programming\\Kata\\4 Kyu\\BinaryMultipleOf3\\BinaryMultipleOf3.csproj",
+  "projectFilePath": "/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/BinaryMultipleOf3/BinaryMultipleOf3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

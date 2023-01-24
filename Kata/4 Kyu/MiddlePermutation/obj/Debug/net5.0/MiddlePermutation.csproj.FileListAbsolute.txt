@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/bin/Debug/net5.0/MiddlePermutation
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/bin/Debug/net5.0/MiddlePermutation.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/bin/Debug/net5.0/MiddlePermutation.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/bin/Debug/net5.0/MiddlePermutation.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/bin/Debug/net5.0/MiddlePermutation.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/bin/Debug/net5.0/MiddlePermutation.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/refint/MiddlePermutation.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/MiddlePermutation.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/MiddlePermutation/obj/Debug/net5.0/ref/MiddlePermutation.dll

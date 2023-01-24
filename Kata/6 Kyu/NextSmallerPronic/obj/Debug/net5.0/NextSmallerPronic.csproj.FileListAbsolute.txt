@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/bin/Debug/net5.0/NextSmallerPronic
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/bin/Debug/net5.0/NextSmallerPronic.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/bin/Debug/net5.0/NextSmallerPronic.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/bin/Debug/net5.0/NextSmallerPronic.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/bin/Debug/net5.0/NextSmallerPronic.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/bin/Debug/net5.0/NextSmallerPronic.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/refint/NextSmallerPronic.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/NextSmallerPronic.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/NextSmallerPronic/obj/Debug/net5.0/ref/NextSmallerPronic.dll

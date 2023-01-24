@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/bin/Debug/net5.0/LetterTriangles
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/bin/Debug/net5.0/LetterTriangles.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/bin/Debug/net5.0/LetterTriangles.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/bin/Debug/net5.0/LetterTriangles.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/bin/Debug/net5.0/LetterTriangles.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/bin/Debug/net5.0/LetterTriangles.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/refint/LetterTriangles.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/LetterTriangles.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LetterTriangles/obj/Debug/net5.0/ref/LetterTriangles.dll

@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/bin/Debug/net5.0/RangeExtraction
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/bin/Debug/net5.0/RangeExtraction.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/bin/Debug/net5.0/RangeExtraction.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/bin/Debug/net5.0/RangeExtraction.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/bin/Debug/net5.0/RangeExtraction.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/bin/Debug/net5.0/RangeExtraction.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/refint/RangeExtraction.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/RangeExtraction.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/RangeExtraction/obj/Debug/net5.0/ref/RangeExtraction.dll

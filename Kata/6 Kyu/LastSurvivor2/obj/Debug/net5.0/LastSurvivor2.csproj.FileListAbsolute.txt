@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/bin/Debug/net5.0/LastSurvivor2
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/bin/Debug/net5.0/LastSurvivor2.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/bin/Debug/net5.0/LastSurvivor2.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/bin/Debug/net5.0/LastSurvivor2.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/bin/Debug/net5.0/LastSurvivor2.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/bin/Debug/net5.0/LastSurvivor2.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/refint/LastSurvivor2.dll
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/LastSurvivor2.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/6 Kyu/LastSurvivor2/obj/Debug/net5.0/ref/LastSurvivor2.dll

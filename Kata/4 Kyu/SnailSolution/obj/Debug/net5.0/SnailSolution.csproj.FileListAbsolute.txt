@@ -1,0 +1,16 @@
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/bin/Debug/net5.0/SnailSolution
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/bin/Debug/net5.0/SnailSolution.deps.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/bin/Debug/net5.0/SnailSolution.runtimeconfig.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/bin/Debug/net5.0/SnailSolution.runtimeconfig.dev.json
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/bin/Debug/net5.0/SnailSolution.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/bin/Debug/net5.0/SnailSolution.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.csproj.AssemblyReference.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.AssemblyInfoInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.AssemblyInfo.cs
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.csproj.CoreCompileInputs.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/refint/SnailSolution.dll
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.pdb
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/SnailSolution.genruntimeconfig.cache
+/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/SnailSolution/obj/Debug/net5.0/ref/SnailSolution.dll

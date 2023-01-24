@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wN71PX91DBUcgI7lc2OcJwoKqyV6AhC/9KNOxu0cFo4PLjsjDBlfUFmSMPLgc001lcInO5kMZZy5byFH7zpkdA==",
+  "dgSpecHash": "n77fh5zXNqkDD0E3A25OZ2+ddVg8Cv3gdFq7rTqjkmnVesKsr36gnpmGLF/faz8PEFsCt+HOEiOAwx5WOxlwfQ==",
   "success": true,
-  "projectFilePath": "W:\\HenTrademark\\OneDrive - wqeic.ac.uk\\A Levels\\Computer Science\\Programming\\Kata\\4 Kyu\\StripComments\\StripComments.csproj",
+  "projectFilePath": "/home/hentm/OneDrive/Documents/C#/Kata/4 Kyu/StripComments/StripComments.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
