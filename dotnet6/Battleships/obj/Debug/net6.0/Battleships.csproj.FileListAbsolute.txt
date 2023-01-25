@@ -1,0 +1,30 @@
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/bin/Debug/net6.0/Battleships.exe
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/bin/Debug/net6.0/Battleships.deps.json
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/bin/Debug/net6.0/Battleships.runtimeconfig.json
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/bin/Debug/net6.0/Battleships.dll
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/bin/Debug/net6.0/Battleships.pdb
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.csproj.AssemblyReference.cache
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.AssemblyInfoInputs.cache
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.AssemblyInfo.cs
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.csproj.CoreCompileInputs.cache
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.dll
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/refint/Battleships.dll
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.pdb
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/Battleships.genruntimeconfig.cache
+C:/Users/221685/OneDrive - wqeic.ac.uk/A Levels/Computer Science/Programming/dotnet6/Battleships/obj/Debug/net6.0/ref/Battleships.dll
+/home/hentm/git/School/dotnet6/Battleships/bin/Debug/net6.0/Battleships
+/home/hentm/git/School/dotnet6/Battleships/bin/Debug/net6.0/Battleships.deps.json
+/home/hentm/git/School/dotnet6/Battleships/bin/Debug/net6.0/Battleships.runtimeconfig.json
+/home/hentm/git/School/dotnet6/Battleships/bin/Debug/net6.0/Battleships.dll
+/home/hentm/git/School/dotnet6/Battleships/bin/Debug/net6.0/Battleships.pdb
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.csproj.AssemblyReference.cache
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.AssemblyInfoInputs.cache
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.AssemblyInfo.cs
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.csproj.CoreCompileInputs.cache
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.dll
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/refint/Battleships.dll
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.pdb
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/Battleships.genruntimeconfig.cache
+/home/hentm/git/School/dotnet6/Battleships/obj/Debug/net6.0/ref/Battleships.dll
