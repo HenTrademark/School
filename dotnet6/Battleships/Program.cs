@@ -3,15 +3,13 @@ using System.Text.RegularExpressions;
 
 namespace Battleships
 {
-    internal class BoardFeatures
-    {
+    internal class BoardFeatures {
         private static Random _rand = new Random();
         private static int _longestLength = 0;
         private static string[] _index = new string[] { "[0] ", "[1] ", "[2] ", "[3] ", "[4] ", "[5] ", "[6] ", "[7] ", "[8] ", "[9] " };
 
         public static int GetLength() { return _longestLength; }
-        public static void PrintBoard(string[,] board)
-        {
+        public static void PrintBoard(string[,] board) {
             Console.Write("-------");
             for (int x = 0; x < 10; x++) { // This makes the horizontal lines at the top
                 for (int count = 0; count < _longestLength + 2; count++) {
@@ -25,8 +23,7 @@ namespace Battleships
             Console.Write("\n");
             Console.Write("—------");
             for (int x = 0; x < 10; x++) { // This makes the horizontal lines under each grid space
-                for (int count = 0; count < _longestLength + 2; count++)
-                {
+                for (int count = 0; count < _longestLength + 2; count++) {
                     Console.Write("—");
                 }
                 Console.Write("-");
@@ -379,11 +376,10 @@ namespace Battleships
         static void PadBoard(string[,] board) {
             for (int i = 0; i < 10; i++) {
                 for (int j = 0; j < 10; j++) {
-                    
-                    board[i, j] = board[i, j].Length % 2 == 1 ? board[i, j] = " " : board[i, j];
 
-                    while (board[i, j].Length < BoardFeatures.GetLength())
-                    {
+                    board[i, j] = board[i, j].Length % 2 == 1 ? board[i, j] + " " : board[i, j];
+
+                    while (board[i, j].Length < BoardFeatures.GetLength()) {
                         board[i, j] = " " + board[i, j] + " ";
                     }
                 }
@@ -394,65 +390,76 @@ namespace Battleships
             return BoardFeatures.MakeBoard(board, count);
         }
 
-        static void SinkPlayer() {
+        private static void SinkPlayer() {
             bool validPlace = false;
+
             while (!validPlace) {
                 int row = new Random().Next(10);
                 int col = new Random().Next(10);
 
-                if (Robot.Board[row, col] == "") {
+                if (Board[row, col].Trim() != "--HIT--" && Board[row, col].Trim() != "--MISS--") {
                     validPlace = true;
-                    _score = Board[row, col].Trim() == "" ? _score : _score - 1;
                     _playerShips = Board[row, col].Trim() == "" ? _playerShips : _playerShips - 1;
-                    Robot.Board[row, col] = Board[row, col].Trim() == "" ? "X" : "Hit";
-                    Board[row,col] = Board[row, col].Trim() == "" ? "--MISS--" : "--HIT--";
+                    _score = Board[row, col].Trim() == "" ? _score : _score - 1;
+                    Board[row, col] = Board[row, col].Trim() == "" ? "--MISS--" : "--HIT--";
                 }
             }
         }
+
         private static void Sink() {
             string r, c;
+            bool validPLace = false;
             PadBoard(Board);
-            PadBoard(Bot);
             Console.WriteLine("Player board:");
             BoardFeatures.PrintBoard(Board);
+            PadBoard(Bot);
             Console.WriteLine("Robot board:");
             BoardFeatures.PrintBoard(Bot);
             Console.WriteLine("Current score: {0}", _score);
-            do {
-                Console.WriteLine("Pick a place to sink:");
-                Console.Write("row: ");
-                r = Console.ReadLine()!;
-                Console.Write("column: ");
-                c = Console.ReadLine()!;
-                if (!(Regex.IsMatch(r, "^[0-9]$") &&
-                      Regex.IsMatch(c, "^[0-9]$")))
-                {
-                    Console.WriteLine("One or more of the inputs are invalid");
-                    Console.WriteLine("Please enter a valid place");
+            while (!validPLace) {
+                do {
+                    Console.WriteLine("Pick a place to sink:");
+                    Console.Write("row: ");
+                    r = Console.ReadLine()!;
+                    Console.Write("column: ");
+                    c = Console.ReadLine()!;
+                    if (!(Regex.IsMatch(r, "^[0-9]$") &&
+                          Regex.IsMatch(c, "^[0-9]$"))) {
+                        Console.WriteLine("One or more of the inputs are invalid");
+                        Console.WriteLine("Please enter a valid place");
+                    }
+
+                    Console.WriteLine();
+                } while (!(Regex.IsMatch(r, "^[0-9]$") &&
+                           Regex.IsMatch(c, "^[0-9]$")));
+
+                int row = int.Parse(r!), col = int.Parse(c!);
+
+                if (Bot[row, col].Trim() != "") {
+                    Console.WriteLine("You've already tried that space");
                 }
-
-                Console.WriteLine();
-            } while (!(Regex.IsMatch(r, "^[0-9]$") &&
-                       Regex.IsMatch(c, "^[0-9]$")));
-
-            int row = int.Parse(r!), col = int.Parse(c!);
-
-            if (Bot[row, col].Trim() != "") { Console.WriteLine("You've already tried that space"); }
-            else { 
-                Bot[row, col] = Robot.GetSpace(row, col).Trim() == "" ? "X" : Robot.GetSpace(row, col).Trim();
-                _score = Robot.GetSpace(row, col).Trim() == "" ? _score : _score + 2;
-                _enemyShips = Robot.GetSpace(row, col).Trim() == "" ? _enemyShips : _enemyShips - 1;
+                else {
+                    validPLace = true;
+                    Bot[row, col] = Robot.GetSpace(row, col).Trim() == "" ? "X" : Robot.GetSpace(row, col).Trim();
+                    _score = Robot.GetSpace(row, col).Trim() == "" ? _score : _score + 2;
+                    _enemyShips = Robot.GetSpace(row, col).Trim() == "" ? _enemyShips : _enemyShips - 1;
+                }
             }
         }
 
         private static void Game() {
             while (_enemyShips > 0 && _playerShips > 0) {
                 Sink();
-                if (_playerShips > 0) { SinkPlayer(); }
+                if (_playerShips > 0) {
+                    SinkPlayer();
+                }
             }
             PadBoard(Bot);
             BoardFeatures.PrintBoard(Bot);
-            Console.WriteLine("You won!");
+            PadBoard(Board);
+            BoardFeatures.PrintBoard(Board);
+            string str = _enemyShips > _playerShips ? "You lost..." : "You won!";
+            Console.WriteLine(str);
             Console.WriteLine("Your final score was {0}", _score);
         }
 
