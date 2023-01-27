@@ -6,7 +6,7 @@ This is where I keep my updated Battleships projects. Battleships is a game whic
   - Battleships v1
     - This is my first semi-big project in C#. This version is against a bot that just guesses randomly so it's easier to win
   - Battleships v2 (WIP)
-    - **This is the project I am currently working on.** This version is against a bot that will guess randomly too, however will seek out more ships if it gets a hit
+    - This version is against a bot that will guess randomly too, however will seek out more ships if it gets a hit.
 
 ## Chapters
 Chapters is the actual learning that I do from school for C#. This is the "Basics" with programs that ask for things, and in Chapter 5 is actually where the Battleships program is from. 
