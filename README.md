@@ -11,7 +11,7 @@ This is where I keep my updated Battleships projects. Battleships is a game whic
 ## Chapters
 Chapters is the actual learning that I do from school for C#. This is the "Basics" with programs that ask for things, and in Chapter 5 is actually where the Battleships program is from. 
 
-### There are 7 Chapters uploaded.
+### There are 8 Chapters uploaded.
   - Chapter 1
     - **Welcome to C#** - Goes through setting up VS, and the very basics of C#
     - This is all in one project because I didn't know how solutions worked
@@ -27,6 +27,8 @@ Chapters is the actual learning that I do from school for C#. This is the "Basic
     - **Subroutines and Functions** - How to declare/call them and ByVal vs. ByRef
   - Chapter 7
     - **String Handling** - What can you do with strings?
+  - Chapter 8
+    - **Exception Handling** - How to deal with exceptions
 
 ## Kata
 Kata are challenges in [codewars](https://www.codewars.com/). They earn Kyu, which is why each solution is named ```x Kyu```.
