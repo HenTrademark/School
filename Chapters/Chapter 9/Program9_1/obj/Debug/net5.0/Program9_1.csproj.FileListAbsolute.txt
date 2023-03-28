@@ -1,0 +1,16 @@
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/bin/Debug/net5.0/Program9_1
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/bin/Debug/net5.0/Program9_1.deps.json
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/bin/Debug/net5.0/Program9_1.runtimeconfig.json
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/bin/Debug/net5.0/Program9_1.runtimeconfig.dev.json
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/bin/Debug/net5.0/Program9_1.dll
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/bin/Debug/net5.0/Program9_1.pdb
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.csproj.AssemblyReference.cache
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.AssemblyInfoInputs.cache
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.AssemblyInfo.cs
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.csproj.CoreCompileInputs.cache
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.dll
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/refint/Program9_1.dll
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.pdb
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/Program9_1.genruntimeconfig.cache
+/home/hentm/git/School/Chapters/Chapter 9/Program9_1/obj/Debug/net5.0/ref/Program9_1.dll
