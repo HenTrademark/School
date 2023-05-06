@@ -1,0 +1,16 @@
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\bin\Debug\net5.0\Program10_1.exe
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\bin\Debug\net5.0\Program10_1.deps.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\bin\Debug\net5.0\Program10_1.runtimeconfig.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\bin\Debug\net5.0\Program10_1.runtimeconfig.dev.json
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\bin\Debug\net5.0\Program10_1.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\bin\Debug\net5.0\Program10_1.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.csproj.AssemblyReference.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.AssemblyInfoInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.AssemblyInfo.cs
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.csproj.CoreCompileInputs.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\refint\Program10_1.dll
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.pdb
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\Program10_1.genruntimeconfig.cache
+C:\Users\221685\OneDrive - wqeic.ac.uk\A Levels\Computer Science\Programming\Chapters\Chapter 10\Program10_1\obj\Debug\net5.0\ref\Program10_1.dll
